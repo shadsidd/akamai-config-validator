@@ -23,9 +23,8 @@ A powerful tool built with Streamlit and Agno that analyzes Akamai security conf
 
 ## Live Demo
 - https://akamai-config-validator.streamlit.app/
+![Uploading Screenshot 2025-04-04 at 2.57.51 PM.png…]()
 
-## Output Example
-![Screenshot 2025-04-04 at 12 33 20 PM](https://github.com/user-attachments/assets/f03401d4-5770-469c-892a-9d5b41f9c2fb)
 
 
 ## Prerequisites
